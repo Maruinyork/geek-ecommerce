@@ -1,6 +1,16 @@
 # Alura Challange | Oracle One | Front-end | AluraGeek
+
+Se trata de un ecommerce:
+
+La página de inicio  contiene un botón de inicio de sesión y un motor de búsqueda de productos ofrecidos.
+Un banner que contiene descuentos, promociones o información relevante del momento.
+Una galería con información del producto, como imagen, nombre del producto, precio y un enlace a la página de descripción del producto.
+Una página de producto que contiene la imagen, el nombre, la descripción y el precio.
+Un pie de página con un formulario de contacto y otras información relevantes.
+Un formulario de iniciar sesión para autenticar a los usuarios que quieran acceder al menu administrador.
+Menú de administrador para que puedan agregar, editar, buscar o eliminar productos de la tienda. En definitiva un CRUD.
 ---
-Link para ver el proyecto funcionando en youtube:
+Link para ver el proyecto funcionando en youtube: https://youtu.be/L08EKOyrQ7g
 
 Funciona con una API generada con JSON-server, por lo cual solo funcionara si se descarga el proyecto y se escribe en consola npm run server
 
@@ -32,18 +42,6 @@ Resources
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/editar.jpg)
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/registro-completo.jpg)
 
-
------
-## Descripción
-Se trata de un ecommerce:
-
-- Una página de inicio que contiene un botón de inicio de sesión y un motor de búsqueda de productos ofrecidos por la empresa.
-- Un banner que contenga descuentos, promociones o informaciónes relevante del momento.
-- Una galería con información del producto, como imagen, nombre del producto, precio y un enlace a la página de descripción del producto.
-- Una página de producto que contiene la imagen, el nombre, la descripción y el precio.
-- Un pie de página con un formulario de contacto y otras informaciónes relevantes.
-- Un formulário de iniciar sesión para autenticar a los usuarios que quieran acceder al menu administrador.
-- Menú de administrador para que puedan agregar, editar, buscar o eliminar productos de la tienda.
 
 -----
 ## 🔒 Login

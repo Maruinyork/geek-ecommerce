@@ -65,12 +65,12 @@
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
     },
     {
-      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac1",
       "name": "Jurassic World Evolution",
       "category": "PS5",
-      "price": "15999",
       "url": "./img/ps5-1.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "15846",
+      "description": "Juego para ps5 sobre Jurassic park",
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac1"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac2",
@@ -201,12 +201,12 @@
       "description": "Amiibo Duck Hunt Original Nuevo Nintendo Vdgmrs"
     },
     {
-      "id": "49cf6e82-6002-4b82-94bb-c19ffebee95b",
+      "id": "687037c6-b051-49c1-afb9-c35c43fd7188",
       "name": "Avengers",
       "category": "Juegos",
       "url": "https://http2.mlstatic.com/D_NQ_NP_2X_724067-MLA43430125228_092020-F.webp",
-      "price": "18000",
-      "description": "Juego avengers para ps4"
+      "price": "14000",
+      "description": "Juego para ps4 sobre los avengers"
     }
   ]
 }
