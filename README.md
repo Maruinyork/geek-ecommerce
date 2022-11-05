@@ -1,5 +1,26 @@
 # Alura Challange | Oracle One | Front-end | AluraGeek
 ---
+Link para ver el proyecto funcionando en youtube:
+
+Funciona con una API generada con JSON-server, por lo cual solo funcionara si se descarga el proyecto y se escribe en consola npm run server
+
+```console
+npm run server
+```
+
+En ese momento se cargara el db.json y se habilitaran los recursos:
+
+```console
+
+Resources
+  http://localhost:3000/products
+
+  Home
+  http://localhost:3000
+
+
+```
+
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/home.png)
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/productos.jpg)
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/ps5.jpg)
@@ -10,8 +31,6 @@
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/agregar.jpg)
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/editar.jpg)
 ![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/registro-completo.jpg)
-
-
 
 
 -----
@@ -29,9 +48,12 @@ Se trata de un ecommerce:
 -----
 ## 🔒 Login
 Las credenciales para loguearse en la administración son:
+
+```console
 email: ecommerce@alura.com
 password: alura1234
 
+```
 -----
 ## En el proyecto se ha utilizado:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
