@@ -1,6 +1,6 @@
 :root{
     --color-white: #F5F5FE;
-    --color-grey: #e3dddd;
+    --color-grey: #e8e3e3;
     --color-light-blue: #E3EEFD;
     --color-dark-blue: #0a0b0b;
     --color-red: #e42a2a;
@@ -469,7 +469,7 @@ LOGIN
     width:40%;
     border-radius: 15px;
     padding: 2rem 0;
-    background-color: var(--color-red);
+    background-color: var(--color-grey);
 }
 
 .login__form-title{
@@ -927,8 +927,8 @@ DETAIL PRODUCT
     background-repeat: no-repeat;
     background-position: center;
     margin: 0 auto;
-    margin-top: 20px;
-    margin-bottom: 60px;
+    margin-top: -70px;
+    margin-bottom: 20px;
   }
   
   .hot__deal-content {

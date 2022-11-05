@@ -1,11 +1,12 @@
-# Alura Challange | Oracle One | Front-end | AluraGeek Latam
+# Alura Challange | Oracle One | Front-end | AluraGeek
 ---
-Haz clic en la imagen para ver la demostración en Youtube 👇
-[![Alt text](https://img.youtube.com/vi/5Z6Bjc2L7DM/0.jpg)](https://www.youtube.com/watch?v=5Z6Bjc2L7DM)
+
+ [![banner.jpg](https://i.postimg.cc/HLJNPtNT/banner.jpg)](https://postimg.cc/rdkgD5cH)
+
 
 -----
 ## Descripción
-Se trata de un ecommerce conteniendo:
+Se trata de un ecommerce:
 
 - Una página de inicio que contiene un botón de inicio de sesión y un motor de búsqueda de productos ofrecidos por la empresa.
 - Un banner que contenga descuentos, promociones o informaciónes relevante del momento.
@@ -18,13 +19,13 @@ Se trata de un ecommerce conteniendo:
 -----
 ## 🔒 Login
 Las credenciales para loguearse en la administración son:
-email: test@alura.com
-password: alura123
+email: ecommerce@alura.com
+password: alura1234
 
 -----
-## Lenguajes
-
+## En el proyecto se ha utilizado:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 -----
 ## Link a website
-
+https://maruinyork.github.io/geek-ecommerce

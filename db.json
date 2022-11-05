@@ -33,12 +33,12 @@
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
     },
     {
-      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5",
       "name": " Nintendo Switch Mario Odyssey",
       "category": "Juegos",
-      "price": "15499",
       "url": "./img/game-5.jpg",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+      "price": "15480",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5"
     },
     {
       "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
@@ -199,6 +199,14 @@
       "url": "https://http2.mlstatic.com/D_NQ_NP_2X_875659-MLA49175465944_022022-F.webp",
       "price": "11339",
       "description": "Amiibo Duck Hunt Original Nuevo Nintendo Vdgmrs"
+    },
+    {
+      "id": "a9fd0eb7-79c7-4df9-be4c-f6efde7627a2",
+      "name": "Spiderman",
+      "category": "Juegos",
+      "url": "https://http2.mlstatic.com/D_NQ_NP_2X_884217-MLA40746152809_022020-F.webp",
+      "price": "1750",
+      "description": "Spider-Man para PS4 es un videojuego de acción y aventuras con un estilo jugable de mundo abierto, que permite al jugador desplazarse."
     }
   ]
 }

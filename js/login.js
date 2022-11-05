@@ -5,8 +5,8 @@ submit.addEventListener('click', (e) => {
     e.preventDefault();
     const email = document.getElementById('email');
     const password = document.getElementById('password');
-    if(email.value == "test@alura.com"){
-        if(password.value == "alura123"){
+    if(email.value == "ecommerce@alura.com"){
+        if(password.value == "alura1234"){
             window.location.href = './admin.html'
         } else {
             loginError.classList.add('invalid-login')
