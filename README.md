@@ -1,7 +1,17 @@
 # Alura Challange | Oracle One | Front-end | AluraGeek
 ---
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/home.png)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/productos.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/ps5.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/jurassic.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/fifa.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/banner.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/login.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/agregar.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/editar.jpg)
+![Image text](https://github.com/Maruinyork/geek-ecommerce/blob/main/img/screenshots/registro-completo.jpg)
 
- [![banner.jpg](https://i.postimg.cc/HLJNPtNT/banner.jpg)](https://postimg.cc/rdkgD5cH)
+
 
 
 -----
